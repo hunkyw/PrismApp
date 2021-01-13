@@ -10,6 +10,9 @@ namespace PrismApp.Views
         public MainWindow()
         {
             InitializeComponent();
+
+            
         }
+
     }
 }
